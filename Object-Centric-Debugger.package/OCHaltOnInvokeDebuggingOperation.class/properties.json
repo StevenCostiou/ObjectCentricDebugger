@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OCDebuggingOperation",
+	"category" : "Object-Centric-Debugger-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OCHaltOnInvokeDebuggingOperation",
+	"type" : "normal"
+}

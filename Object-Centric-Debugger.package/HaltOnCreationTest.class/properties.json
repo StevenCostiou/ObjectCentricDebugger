@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectCentricHaltTest",
+	"category" : "Object-Centric-Debugger-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HaltOnCreationTest",
+	"type" : "normal"
+}

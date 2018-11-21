@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Object-Centric-Debugger-core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"capturedMethodNames"
+	],
+	"name" : "OCDebuggingOperation",
+	"type" : "normal"
+}

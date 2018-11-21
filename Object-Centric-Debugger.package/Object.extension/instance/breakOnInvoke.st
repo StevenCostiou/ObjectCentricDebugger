@@ -1,0 +1,3 @@
+*Object-Centric-Debugger
+breakOnInvoke
+	OCHaltOnInvokeDebuggingOperation new setHaltOnCallForObject: self
