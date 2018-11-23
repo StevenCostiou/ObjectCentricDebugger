@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Collector",
+	"category" : "Object-Centric-Debugger-collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OCDCollector",
+	"type" : "normal"
+}

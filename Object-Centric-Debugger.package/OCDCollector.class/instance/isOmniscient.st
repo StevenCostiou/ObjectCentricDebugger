@@ -1,0 +1,3 @@
+behavior - collection
+isOmniscient
+	^ false

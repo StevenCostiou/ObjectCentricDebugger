@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ValueCollectInstaller",
+	"category" : "Object-Centric-Debugger-collectors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OCDValueCollectInstaller",
+	"type" : "normal"
+}
