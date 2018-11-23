@@ -6,5 +6,4 @@ handleMessage: aMessage toTarget: anObject
 		anySatisfy: [ :str | str match: selector asString asLowercase ])
 		ifFalse: [ (#(#class) includes: selector)
 				ifFalse: [ debugger messageReceived: aMessage by: anObject ] ].
-"	selector crLog."
 	^ aMessage sendTo: anObject
