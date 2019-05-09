@@ -1,3 +1,5 @@
 installation
 installBreakPointOnMethodNamed: methodName for: anObject
-	ObjectCentricBreakpoint new installOn: anObject for: methodName
+	| bp |
+	bp := ObjectCentricBreakpoint new.
+	bp installOn: anObject for: methodName

@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	capturedMethodNames := Dictionary new
+	capturedMethodNames := Dictionary new.
+	stopHalting := false

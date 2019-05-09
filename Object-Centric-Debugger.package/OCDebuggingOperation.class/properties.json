@@ -6,7 +6,10 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"capturedMethodNames"
+		"capturedMethodNames",
+		"haltOnce",
+		"stopHalting",
+		"proxy"
 	],
 	"name" : "OCDebuggingOperation",
 	"type" : "normal"
