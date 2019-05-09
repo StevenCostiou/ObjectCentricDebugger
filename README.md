@@ -7,5 +7,19 @@ Metacello new
     baseline: 'ObjectCentricDebugger';
     repository: 'github://StevenCostiou/ObjectCentricDebugger';
     load.
+ ```
+ 
+ # API
+```Smalltalk
+#haltOnWriteAccess
+#haltOnReadAccess
+#haltOnStateAccess
+
+#haltOnReadAccessTo: anInstVarName
+#haltOnWriteAccessTo: anInstVarName
+#haltOnAccessTo: anInstVarName
+
+#removeStateAccessHalts
+```
     
    
