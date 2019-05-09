@@ -7,3 +7,4 @@ Metacello new
     baseline: 'ObjectMiners';
     repository: 'github://ClotildeToullec/ObjectMiners';
     load.```
+   
