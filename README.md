@@ -6,5 +6,5 @@ New implementation of OCD in Pharo
 Metacello new
     baseline: 'ObjectMiners';
     repository: 'github://ClotildeToullec/ObjectMiners';
-    load.```
+    load.
    
