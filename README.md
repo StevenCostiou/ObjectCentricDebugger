@@ -11,13 +11,16 @@ Metacello new
  
  # API
 ```Smalltalk
-#haltOnWriteAccess
-#haltOnReadAccess
+#haltOnCall
+#haltOnCall: #aMethodSelector
+
+#haltOnWrite
+#haltOnRead
 #haltOnStateAccess
 
-#haltOnReadAccessTo: anInstVarName
-#haltOnWriteAccessTo: anInstVarName
-#haltOnAccessTo: anInstVarName
+#haltOnReadTo: #anInstVarName
+#haltOnWriteTo: #anInstVarName
+#haltOnAccessTo: #anInstVarName
 
 #removeStateAccessHalts
 ```
